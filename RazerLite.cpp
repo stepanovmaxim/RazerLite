@@ -20,8 +20,8 @@
 // properties.
 #define APP_VERSION_MAJOR 1
 #define APP_VERSION_MINOR 0
-#define APP_VERSION_PATCH 0
-#define APP_VERSION_STR   L"1.0.0"
+#define APP_VERSION_PATCH 1
+#define APP_VERSION_STR   L"1.0.1"
 
 #pragma comment(lib, "kernel32.lib")
 #pragma comment(lib, "user32.lib")
